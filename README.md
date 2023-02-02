@@ -1,7 +1,3 @@
-- 👋 Olá, Eu sou Douglas Miranda
-- 👀 Estou interessado em desenvolvimento web
-- 🌱 Atualmente estou aprendendo PHP, MySQL, POO e MVC
-
 <div>
   <a href="https://github.com/DouglasJS97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasJS97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
